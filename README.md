@@ -259,12 +259,10 @@ Suggested portfolio items to include:
 
 ## Contact / Author
 
-**Author:** Your Name
+**Author:** James Christopher
 
-* Portfolio: `https://www.upwork.com/freelancers/~01fb838e392c876b45?mp_source=share`
+* Portfolio: `https://github.com/jamesChristopher-dev`
 * Email: `jameschristopher.contact@gmail.com`
-
-Replace placeholders before publishing.
 
 ---
 
