@@ -261,8 +261,8 @@ Suggested portfolio items to include:
 
 **Author:** Your Name
 
-* GitHub: `https://github.com/your-username`
-* Email: `your.email@example.com`
+* Portfolio: `https://www.upwork.com/freelancers/~01fb838e392c876b45?mp_source=share`
+* Email: `jameschristopher.contact@gmail.com`
 
 Replace placeholders before publishing.
 
